@@ -1,0 +1,8 @@
+org.vamdc.taverna.vamdc_taverna_suite.ui.serviceprovider.CEAServiceProvider
+org.vamdc.taverna.vamdc_taverna_suite.ui.serviceprovider.TapXSamsServiceProvider
+org.vamdc.taverna.vamdc_taverna_suite.ui.serviceprovider.TapXSamsQueryHelperServiceProvider
+org.vamdc.taverna.vamdc_taverna_suite.ui.serviceprovider.FindTapServiceProvider
+org.vamdc.taverna.vamdc_taverna_suite.ui.serviceprovider.TapXSamsOperatorServiceProvider
+org.vamdc.taverna.vamdc_taverna_suite.ui.serviceprovider.TopCatServiceProvider
+org.vamdc.taverna.vamdc_taverna_suite.ui.serviceprovider.ConsumerServiceProvider
+org.vamdc.taverna.vamdc_taverna_suite.ui.serviceprovider.SpectColServiceProvider

@@ -1,0 +1,9 @@
+org.vamdc.taverna.vamdc_taverna_suite.CEAActivityHealthChecker
+org.vamdc.taverna.vamdc_taverna_suite.TapXSamsActivityHealthChecker
+org.vamdc.taverna.vamdc_taverna_suite.TapXSamsQueryHelperHealthChecker
+org.vamdc.taverna.vamdc_taverna_suite.TapXSamsOperatorHealthChecker
+org.vamdc.taverna.vamdc_taverna_suite.TopCatActivityHealthChecker
+org.vamdc.taverna.vamdc_taverna_suite.ConsumerServiceActivityHealthChecker
+org.vamdc.taverna.vamdc_taverna_suite.SpectColActivityHealthChecker
+
+
